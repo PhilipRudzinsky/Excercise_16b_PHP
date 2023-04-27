@@ -1,0 +1,3 @@
+Michał;Dewidowski;michal@gmail.com
+Piotr;Radziwil;raDziu@gmail.com
+Micheal;Uriki;anon3@gmail.com
